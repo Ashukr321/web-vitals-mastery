@@ -1,0 +1,1 @@
+console.log("lcp understand core web vitals");
